@@ -1,5 +1,5 @@
 # 🧠 MAKERS Project Assignment
-Daniel Enrique Fernández García | [Website](osteguin.com/)
+Daniel Enrique Fernández García | [Website](https://osteguin.com/)
 ### Chosen option: A
 This repository contains the different directories and files developed to carry out the challenge. I chose to mint three of my favorite photos that I took when I was in Cabo San Lucas, Baja California Sur. 🇲🇽
 ## 📝 Required tasks
